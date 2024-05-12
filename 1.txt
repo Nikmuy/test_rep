@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 url
 neopa.opa.com
 
+=======
+>>>>>>> parent of 60bfe62 (md 1.txt)
