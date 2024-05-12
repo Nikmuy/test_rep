@@ -1,2 +1,3 @@
 url
-opa.opa.ru
+neopa.opa.com
+
